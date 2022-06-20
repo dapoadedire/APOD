@@ -1,8 +1,8 @@
-# nasa-api
+## nasa-api
 
-## This Python Scripts gets the Astromomy Picture of the day.
+### This Python Script gets the Astromomy Picture of the day.
 
-## Examples:
+### Examples:
 
 
 ### The Gamma Cygni Nebula
