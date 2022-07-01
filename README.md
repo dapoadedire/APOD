@@ -1,4 +1,4 @@
-## nasa-api
+## APOD
 
 This Python Script gets the Astromomy Picture of the day.
 
