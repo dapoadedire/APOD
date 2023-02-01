@@ -4,7 +4,7 @@ charset-normalizer==2.0.12
 cssselect==1.1.0
 cssutils==2.4.2
 idna==3.3
-lxml==4.9.0
+lxml==4.9.1
 premailer==3.10.0
 python-dotenv==0.20.0
 requests==2.28.0
